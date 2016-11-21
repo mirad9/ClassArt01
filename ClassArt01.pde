@@ -8,5 +8,5 @@ void setup(){
 void draw(){
 x=x+.01;
   fill(int(random(255)),random(255),random(255));
-  ellipse(random(1000), random(1000), 10 x+x, 10+x);
+  ellipse(random(1000), random(1000), 10+x, 10+x);
 }
